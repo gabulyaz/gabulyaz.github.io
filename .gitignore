@@ -1,2 +1,5 @@
 _site
+_draft
 .sass-cache
+tmp
+.DS_Store

@@ -12,3 +12,15 @@ github_username:  gabulyaz
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+
+#Server options
+detach: true
+port: 3000
+host: 0.0.0.0
+
+
+
+
+
+
